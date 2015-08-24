@@ -1,2 +1,3 @@
 # hello-world
-The usual test
+The usual test.
+Some more text.
